@@ -12,7 +12,7 @@ GET /product/_search
   }
 }
 ```
-
+## Alternative version of the above query - specifying value field
 ```
 GET /product/_search
 {
